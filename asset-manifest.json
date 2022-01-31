@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qberg/static/css/main.3131b3b8.css",
-    "main.js": "/qberg/static/js/main.06f3e7d2.js",
+    "main.css": "/qberg/static/css/main.cfef8b12.css",
+    "main.js": "/qberg/static/js/main.3435cebd.js",
     "static/js/787.cfd8f164.chunk.js": "/qberg/static/js/787.cfd8f164.chunk.js",
     "static/media/ArialMT.eot": "/qberg/static/media/ArialMT.cfcb62075526edc12210.eot",
     "static/media/ArialMT.ttf": "/qberg/static/media/ArialMT.74d06c0a3e4f4e826295.ttf",
@@ -158,6 +158,7 @@
     "static/media/FuturaLightC.eot": "/qberg/static/media/FuturaLightC.0307d471e02ea5e64dc9.eot",
     "static/media/FuturaLightC-Italic.ttf": "/qberg/static/media/FuturaLightC-Italic.15f8e69d128940ef809f.ttf",
     "static/media/FuturaLightC.ttf": "/qberg/static/media/FuturaLightC.fbd58d5cd9fab069748e.ttf",
+    "static/media/smoke.png": "/qberg/static/media/smoke.e0fc7716b115a933ce6b.png",
     "static/media/FuturaBookC-Italic.woff": "/qberg/static/media/FuturaBookC-Italic.2688bd9c50a3f4fade4a.woff",
     "static/media/FuturaBookC.woff": "/qberg/static/media/FuturaBookC.e063ff5df5a8c0e484e3.woff",
     "static/media/FuturaDemiC-Italic.woff": "/qberg/static/media/FuturaDemiC-Italic.b4bdb1fe52c12d56d131.woff",
@@ -167,12 +168,12 @@
     "static/media/FuturaLightC-Italic.woff": "/qberg/static/media/FuturaLightC-Italic.23e514f13c07503524b4.woff",
     "static/media/FuturaLightC.woff": "/qberg/static/media/FuturaLightC.85f9fcf994e69ef4313d.woff",
     "index.html": "/qberg/index.html",
-    "main.3131b3b8.css.map": "/qberg/static/css/main.3131b3b8.css.map",
-    "main.06f3e7d2.js.map": "/qberg/static/js/main.06f3e7d2.js.map",
+    "main.cfef8b12.css.map": "/qberg/static/css/main.cfef8b12.css.map",
+    "main.3435cebd.js.map": "/qberg/static/js/main.3435cebd.js.map",
     "787.cfd8f164.chunk.js.map": "/qberg/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3131b3b8.css",
-    "static/js/main.06f3e7d2.js"
+    "static/css/main.cfef8b12.css",
+    "static/js/main.3435cebd.js"
   ]
 }
